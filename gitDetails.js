@@ -42,4 +42,11 @@ and it will help for beginner guys
    12-> undo after commit code :- we can undo the code after commit
                  git revert commitId
 
+   13-> git branch -> check all branch name
+                git branch              
+   14-> create new branch
+             git branch brancName
+             git checkout -b branchName
+
+    15->          
                         
