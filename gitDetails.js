@@ -45,8 +45,9 @@ and it will help for beginner guys
    13-> git branch -> check all branch name
                 git branch              
    14-> create new branch
-             git branch brancName
-             git checkout -b branchName
+             git branch brancName --after create branch need to checkout that branch
+             git checkout -b branchName -- create or checkout auto
 
-    15->          
+    15->   get 2 branch ->
+               git branch branchName      
                         
