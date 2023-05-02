@@ -30,3 +30,15 @@ and it will help for beginner guys
          git push
          
    10-> git difftool HEAD :- it will show the previous change and latest changes
+   
+   11-> git reset :-This means that when you want to undo the changes in multiple commits, git reset may be more useful but should mostly be used only when changes have not been made public, while git revert can be used when only a specific commit needs to be undone and can be used even when the changes have been made public.
+
+         git revert commitId
+  
+   11-> undo local change :- change your local changes
+                       git checkout .
+
+   12-> undo after commit code :- we can undo the code after commit
+                 git revert commitId
+                                     
+                        
